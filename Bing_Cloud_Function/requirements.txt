@@ -1,0 +1,12 @@
+pandas
+numpy
+google-cloud-storage
+gcsfs
+google
+google-cloud-bigquery
+oauth2client
+google-auth-oauthlib
+pyarrow
+xlrd
+openpyxl
+googleads

@@ -1,0 +1,8 @@
+pandas
+facebook_business==10.0.0
+gcsfs
+google
+oauth2client
+pyarrow
+google-cloud-bigquery
+sendgrid

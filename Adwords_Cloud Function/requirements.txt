@@ -1,0 +1,8 @@
+pandas
+gcsfs
+googleads
+google
+oauth2client
+pyarrow
+google-cloud-bigquery
+sendgrid

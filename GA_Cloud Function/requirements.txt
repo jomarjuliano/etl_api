@@ -1,0 +1,6 @@
+pandas
+pandas_gbq
+gcsfs
+googleads
+google
+oauth2client
